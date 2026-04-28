@@ -4,4 +4,6 @@ version = "0.1.0"
 description = "first uv programm"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "more-itertools>=11.0.2",
+]
